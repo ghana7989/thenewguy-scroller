@@ -1,1 +1,1 @@
-module.exports = {};
+export {useScroller} from './useScroller';
