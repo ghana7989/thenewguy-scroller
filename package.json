@@ -1,7 +1,8 @@
 {
 	"name": "thenewguy-scroller",
-	"version": "1.0.0",
-	"main": "src/index.js",
+	"version": "1.0.1",
+	"main": "dist/index.js",
+	"module": "dist/index.mjs",
 	"license": "MIT",
 	"description": "easy to use scrolling library",
 	"peerDependencies": {
